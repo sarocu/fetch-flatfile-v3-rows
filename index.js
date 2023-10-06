@@ -1,11 +1,11 @@
 import fetch from 'node-fetch'
 
 // Constants:
-const ACCESS_KEY_ID='FF00YB81JS6D5WL294LIJ4WK5CKHQWPJJRS5SETE'
-const SECRET_KEY='69y2fWBdWoyoG4ZPFiqBHdaCE3aygn79DrtFOJqf'
+const ACCESS_KEY_ID='XXXXX'
+const SECRET_KEY='XXXXX'
 const API_KEY=`${ACCESS_KEY_ID}+${SECRET_KEY}`
 const BASE_URL='api.us.flatfile.io'
-const LICENSE_KEY='78826d47-a0ed-4a62-ade5-defac79f237e'
+const LICENSE_KEY='XXXX'
 
 /*
 ----------------------------------------------------------------
